@@ -20,7 +20,6 @@ struct DateTime {
     minute: u32,
 }
 
-
 fn main() {
 
     let x: DateTime = "[1518-11-01 00:00]".parse().unwrap();
