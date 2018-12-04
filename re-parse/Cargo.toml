@@ -1,0 +1,19 @@
+[package]
+authors = ["Jacob Brown <kardeiz@gmail.com>"]
+name = "re-parse"
+version = "0.1.0"
+
+[dependencies]
+regex = "1.1.0"
+serde = "1.0.80"
+serde_urlencoded = "0.5.4"
+url = "1.7.2"
+lazy_static = "1.2.0"
+
+[dependencies.re-parse-macros]
+path = "../re-parse-macros"
+version = "0.1.0"
+
+[dev-dependencies]
+
+serde_derive = "1.0.80"

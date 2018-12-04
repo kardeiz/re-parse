@@ -1,0 +1,2 @@
+[workspace]
+members = ["re-parse", "re-parse-macros"]
