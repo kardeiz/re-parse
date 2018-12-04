@@ -1,12 +1,11 @@
 [package]
 authors = ["Jacob Brown <kardeiz@gmail.com>"]
-description = "Database interface macros"
 keywords = ["regex", "parse"]
 license = "MIT"
 name = "re-parse-macros"
 version = "0.1.0"
-repository = "https://github.com/kardeiz/dbi"
-readme = "README.md"
+repository = "https://github.com/kardeiz/re-parse"
+readme = "../README.md"
 
 [dependencies]
 proc-macro2 = "0.4.23"

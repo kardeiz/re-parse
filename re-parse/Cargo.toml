@@ -2,6 +2,8 @@
 authors = ["Jacob Brown <kardeiz@gmail.com>"]
 name = "re-parse"
 version = "0.1.0"
+repository = "https://github.com/kardeiz/re-parse"
+readme = "../README.md"
 
 [dependencies]
 regex = "1.1.0"
