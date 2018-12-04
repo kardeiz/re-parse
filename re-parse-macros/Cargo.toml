@@ -6,6 +6,7 @@ name = "re-parse-macros"
 version = "0.1.0"
 repository = "https://github.com/kardeiz/re-parse"
 readme = "../README.md"
+description = "Macros for re-parse"
 
 [dependencies]
 proc-macro2 = "0.4.23"
